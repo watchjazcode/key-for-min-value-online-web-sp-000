@@ -20,4 +20,4 @@ def key_for_min_value(name_hash)
   end
 end
 
-#accumulation pattern
+#accumulation pattern: start with empty something and then iterate on each iteration if necessary you add a result to the temp variable you started with and then return what you have accumulated.
